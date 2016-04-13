@@ -199,3 +199,14 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+This software includes a number of subcomponents with separate copyright 
+notices and license terms. Your use of the source code for the these 
+subcomponents is subject to the terms and conditions of their respective
+licenses.
+
+-Please refer to 
+http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html
+for the respective MovieLens data license.
+-Please refer to http://www.apache.org/licenses/ for the respective Apache Spark
+license.
