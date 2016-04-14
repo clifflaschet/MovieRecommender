@@ -13,6 +13,8 @@ java -jar MovieRecommender.jar
 ##Usage
 The movie recommender will start by asking your ratings for several well-known movies, after which a top 25 list of best movie picks is shown, tailored to your movie interests. 
 
+![Image of personal movie rating input.](/docs/img/demo1.png?raw=true)
+
 ##Using the source code directly
 This software requires [Scala](http://www.scala-lang.org/) (2.10.5) and [SBT](http://www.scala-sbt.org/) (0.13.8) to be installed on your system. Using SBT, the project may be run by, in the root project directory, executing `sbt run`. This will resolve all dependencies and other setup requirements and subsequently run the main method of the source code.
 
