@@ -4,7 +4,7 @@ Implementation of a basic movie recommendation system using [Apache Spark 1.6.1]
 You can **contact** me through my [LinkedIn page](https://nl.linkedin.com/in/cliff-laschet-91164195).
 
 ##Running the pre-built artifact
-An out of the box runnable artifact is provided in the `/dist` directory, and can be started by executing the command below, provided you have a recent version of Java installed on your system.
+A runnable JAR artifact is provided as a release, and can be started by executing the command below, provided you have a recent version of Java installed on your system. No other dependencies are required, but please be aware that the JAR requires the `movies.csv` and `ratings.csv` files to be located in the same directory, which are included in the release as well.
 
 ```
 java -jar MovieRecommender.jar
