@@ -1,5 +1,5 @@
 # MovieRecommender
-Implementation of a basic movie recommendation system using [Apache Spark 1.6.1](http://spark.apache.org/) and the [MovieLens](http://grouplens.org/datasets/movielens/latest/) data set. This material was originally presented by me (Cliff Laschet) at [Nextbuild 2016](http://nextbuild.nl/), held at the High Tech Campus in Eindhoven. The slide deck accompanying this software is available as PDF and located in the `/slides` directory of this repo.
+Implementation of a basic movie recommendation system using [Apache Spark 1.6.1](http://spark.apache.org/) and the [MovieLens](http://grouplens.org/datasets/movielens/latest/) data set. This material was originally presented by me (Cliff Laschet) at [Nextbuild 2016](http://nextbuild.nl/), held at the High Tech Campus in Eindhoven. The slide deck accompanying this software is available as PDF and located in the `/docs` directory of this repo.
 
 You can **contact** me through my [LinkedIn page](https://nl.linkedin.com/in/cliff-laschet-91164195).
 
