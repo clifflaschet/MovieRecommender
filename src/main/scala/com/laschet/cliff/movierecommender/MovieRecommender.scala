@@ -54,9 +54,9 @@ object MovieRecommender {
 
     //C. Training the ML technique, using the training data as input.
     //1-Set some parameters of the ML technique (out of scope for this demo).
-    val rank = 10
-    val iterations = 10
-    val regularizationFactor = 0.1
+    val rank = 8
+    val iterations = 25
+    val regularizationFactor = 10
 
     //2-Provide the training data and parameters as input for the ML technique.
     //  In this case, collaborative filtering is used, which is often taken as
